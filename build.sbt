@@ -1,6 +1,6 @@
 name := "google-xoauth-samples"
 
-organization := "emarinelli"
+organization := "com.google.code"
 
 version := "0.0.0"
 
