@@ -7,8 +7,7 @@ version := "0.0.1"
 scalaVersion := "2.10.0-RC1"
 
 resolvers ++= List(
-  "oauth maven" at "http://oauth.googlecode.com/svn/code/maven",
-  "Blend Repository" at "https://blend.artifactoryonline.com/blend/blend"
+  "oauth maven" at "http://oauth.googlecode.com/svn/code/maven"
 )
 
 libraryDependencies ++= List(
